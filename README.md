@@ -32,4 +32,3 @@ Soy **Técnico Superior Universitario en Informática** y **Desarrollador Backen
 
 ### 📬 Contacto
 - **Email:** alangonzalez200311@gmail.com
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com)
