@@ -1,4 +1,4 @@
-# ¡Hola! Soy Alan González 👋
+# ¡Hola! Soy Alan González (Yami) 👋
 
 Soy **Técnico Superior Universitario en Informática** y **Desarrollador Backend Junior** radicado en Venezuela. Me enfoco en el diseño de arquitecturas lógicas, optimización de bases de datos relacionales y despliegue de entornos controlados mediante Linux y contenedores Docker.
 
